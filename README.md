@@ -1,50 +1,49 @@
-# Welcome to your Expo app 👋
+# 🍽️ Recipe Spoon
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Recipe Spoon** is a beautifully designed **React Native app built with Expo** that allows users to discover, search, and follow food recipes with ease. It includes rich features like step-by-step instructions, embedded cooking videos, and a powerful search function. The backend is fully deployed and live on **Render**, making it a seamless experience across devices.
 
-## Get started
+---
 
-1. Install dependencies
+## ✨ Features
 
-   ```bash
-   npm install
-   ```
+- 🔍 **Search Recipes**: Instantly find recipes by food name, ingredients, or cuisine type
+- 🎥 **Video Recipes**: Watch cooking steps via integrated video player
+- 📓 **Step-by-Step Instructions**: Clear directions for each cooking phase
+- ❤️ **Save Favorites**: Bookmark and manage favorite recipes
+- 📊 **Clean & Responsive UI**: Built using **React Native** and **Expo**
+- ✨ **Backend API hosted on Render** for real-time data delivery
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 📸 App Screenshots
 
-In the output, you'll find options to open the app in a
+<p float="left">
+  <img src="assets/images/recipie_detail.jpeg" width="200" />
+  <img src="assets/images/recipie_page.jpeg" width="200" />
+  <img src="assets/images/signin.jpeg" width="200" />
+  <img src="assets/images/signup.jpeg" width="200" />
+  <img src="assets/images/search.jpeg" width="200" />
+  <img src="assets/images/signin.jpeg" width="200" />
+</p>
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🧰 Tech Stack
 
-## Get a fresh project
+### Frontend
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [React Navigation](https://reactnavigation.org/)
+- [Axios](https://axios-http.com/)
 
-When you're ready, run:
+### Backend
+- Node.js + Express.js
+- MongoDB with Mongoose
+- Deployed on [Render](https://recepie-api.onrender.com/)
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 🔗 API Endpoint
 
-## Learn more
+> Replace with your actual deployed URL
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
