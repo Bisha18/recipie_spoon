@@ -45,5 +45,5 @@
 
 ## 🔗 API Endpoint
 
-> Replace with your actual deployed URL
+https://recepie-api.onrender.com/
 
