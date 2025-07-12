@@ -47,3 +47,21 @@
 
 https://recepie-api.onrender.com/
 
+
+---
+
+## 🛠️ Installation Guide
+
+### Prerequisites
+- Node.js
+- Expo CLI: `npm install -g expo-cli`
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Bisha18/recipie_spoon.git
+cd recipie_spoon/mobile
+
+npm install
+npx expo start
+```
